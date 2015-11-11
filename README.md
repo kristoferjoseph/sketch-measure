@@ -43,6 +43,14 @@ _NOTE: If your Mac has not installed GitHub client, You need to install [GitHub 
 ### 5. Create Note
 ![6](http://ux.utom.us/tutorial/6.gif)
 
+### 6. Spec Export
+1. Select any artboards
+2. Plugin menu run "Spec Export"
+3. Choose path and click "Export"
+
+Demo http://utom.design/measure/spec-export-demo/
+
+
 ### Keyboard Shortcuts
 1. Create Overlay: `⌃` + `⇧` + `1`
 2. Measure Size: `⌃` + `⇧` + `2`
@@ -54,8 +62,6 @@ _NOTE: If your Mac has not installed GitHub client, You need to install [GitHub 
 8. Toggle All Measure Locked `⌃` + `⇧` + `L`
 9. Reset(Clear) Artboard Measure
 
-### SPEC EXPORT
-Demo http://utom.design/measure/spec-export-demo/
 
 ##Contact
 
